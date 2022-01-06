@@ -18,7 +18,7 @@ var sum3 = (a,b) => a + b;
 
 // 위 둘은 같은겨
 
-//화살표 함수 in 타입스크립트
-var sum = (a:Number, b:number):number => {
-  return a + b;
-}
+// //화살표 함수 in 타입스크립트
+// var sum = (a:Number, b:number):number => {
+//   return a + b;
+// }
